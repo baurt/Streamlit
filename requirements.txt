@@ -6,4 +6,4 @@ pandas-datareader
 prophet
 seaborn
 numpy
-matplotlib.pyplot
+matplotlib
